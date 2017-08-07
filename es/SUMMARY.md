@@ -13,7 +13,7 @@
   * [Descaragno el archivo phar](getting/download.md)
   * [Actualizar la Drupal Console](getting/update.md)
 
-* [Using the project](using/project.md)
+* [Utilizando el proyecto](using/project.md)
   * [Cómo copiar los ficheros de documentación](using/how-to-copy-configuration-files.md)
   * [Cómo descargar, instalar y servir Drupal 8](using/how-to-download-install-and-serve-drupal8.md)
   * [Cómo usar la Drupal Console en una instalación multi-sitio](using/how-to-use-drupal-console-in-a-multisite-installation.md)
